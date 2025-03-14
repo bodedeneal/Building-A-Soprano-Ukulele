@@ -1,4 +1,4 @@
-# Building-A-Soprano-Ukulele
+# Building A Soprano Ukulele
 When building a ukulele you need to determine the type. For this ukulele it will be a 21" soprano. ![Ukulele](ukedsmah.png)
 # Essential Materials:
 Wood:
@@ -52,6 +52,6 @@ Steel Wool: For fine smoothing and buffing.
 Polishing Cloth: For applying and buffing finish.
 
 # The Build and Layout
-![Ukulele](ukedsmah.png)
+![Ukulele](CNC_14_-Fret_Soprano_Kasha_Uke_CNC_1900x.webp)
 ![Ukulele](ukedsmah.png)
 © 2025 bodedeneal
