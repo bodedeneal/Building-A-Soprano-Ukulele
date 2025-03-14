@@ -53,5 +53,7 @@ Polishing Cloth: For applying and buffing finish.
 
 # The Build and Layout
 ![Ukulele](CNC_14_-Fret_Soprano_Kasha_Uke_CNC_1900x.webp)
-![Ukulele](ukedsmah.png)
+When you satrt building your soprano ukulele you neeed to follow the guides above and bellow.
+![Ukulele](f5ffb273a1bdcb39df904241d03c232b.jpg)
+
 © 2025 bodedeneal
