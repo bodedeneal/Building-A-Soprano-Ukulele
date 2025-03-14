@@ -50,3 +50,8 @@ Sandpapers: Various grits for smoothing and polishing.
 Steel Wool: For fine smoothing and buffing.
 
 Polishing Cloth: For applying and buffing finish.
+
+# The Build and Layout
+![Ukulele](ukedsmah.png)
+![Ukulele](ukedsmah.png)
+© 2025 bodedeneal
