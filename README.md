@@ -1,5 +1,5 @@
 # Building-A-Soprano-Ukulele
-When building a ukulele you need to determine the type. For this ukulele it will be a 21" soprano. ![Ukulele](images/ukulele.jpg)
+When building a ukulele you need to determine the type. For this ukulele it will be a 21" soprano. ![Ukulele](ukedsmah.png)
 # Essential Materials:
 Wood:
   Body: Common woods include Koa, Mahogany, and Spruce.
